@@ -53,7 +53,7 @@ const Nav = () => {
             activeClass="active"
             smooth={true}
             spy={true}
-            offset={50}
+            // offset={50}
             className="cursor-pointer w-[60px] h-[60px] flex items-center justify-center"
           >
             <BsChatSquareText />
